@@ -5,3 +5,4 @@ simulation/.waf*
 simulation/build/
 simulation/mix/*.txt
 simulation/mix/*.tr
+tmp.out
